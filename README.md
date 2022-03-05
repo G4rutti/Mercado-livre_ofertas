@@ -27,7 +27,7 @@
 <br>
 <p>Versão 0.1 | 28/02/2022</p>
 <h3>Coisas para arrumar na versão 0.1:</h3>
-<li>
-  <ul>Parar na ultima página de pesquisa(o programa depois que passa da ultima página, continua, pois depois que o que coloca um numero inválido na url, ex: (mercadolivre.com.br/ofertas?page=345342) ele volta para a página 1 == mercadolivre.com.br/ofertas?page=1, e não dar erro.)</ul>
-  <ul>Um sistema onde você pesquisa o nome do produto e ele mostra o produto e suas repectivas promoções.</ul>
-</li>
+<ul>
+  <li>Parar na ultima página de pesquisa(o programa depois que passa da ultima página, continua, pois depois que o que coloca um numero inválido na url, ex: (mercadolivre.com.br/ofertas?page=345342) ele volta para a página 1 == mercadolivre.com.br/ofertas?page=1, e não dar erro.)</li>
+  <li>Um sistema onde você pesquisa o nome do produto e ele mostra o produto e suas repectivas promoções.</li>
+</ul>
