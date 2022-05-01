@@ -27,8 +27,9 @@
 <br>
 <p>Versão 1.1 | 28/02/2022</p>
 <p>Versão 1.2 | 30/04/2022</p>
+<p>Versão 1.3 | 01/05/2022</p>
 <h3>Coisas para arrumar na versão 1.3:</h3>
 <ul>
   <li>Um sistema onde você pesquisa o nome do produto e ele mostra o produto e suas repectivas promoções.</li>
-  <li>Um banco de dados, ao invés de um código de texto.</li>
+  <li>Um banco de dados, ao invés de um código de texto. <b>CORRIGIDO</b></li>
 </ul>
